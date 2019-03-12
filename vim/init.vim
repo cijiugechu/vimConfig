@@ -199,7 +199,7 @@ Plug 'junegunn/limelight.vim'
 
 
 
-" 自动补全
+" Auto complete
 " Plug 'neoclide/coc.nvim', {'tag': '*', 'do': { -> coc#util#install()}}
 Plug 'ncm2/ncm2'
 Plug 'roxma/nvim-yarp'
